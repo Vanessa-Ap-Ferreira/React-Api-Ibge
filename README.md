@@ -4,7 +4,7 @@
 
 Estudo de consumo de API utilizado React.
 
-Nesta aplicação você poderá selecionar um estado brasileiro e os municípios do estado selecionado.
+Nesta aplicação você poderá selecionar um estado brasileiro e será listado os municípios pertencentes ao estado selecionado.
 
 ![Logo IBGE](https://github.com/Vanessa-Ap-Ferreira/react-api-ibge/blob/master/ibge.png)
 
@@ -17,3 +17,5 @@ Para a execução local após clonar o repositório, é necessario executar os c
 npm install
 npm start
 ```
+
+Agora você pode acessar localmente em seu navegador o endereço ````http://localhost:3000```` e selecionar o estado e municípios.
